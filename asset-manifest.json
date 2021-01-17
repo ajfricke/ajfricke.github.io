@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/investa/static/css/main.4d467896.chunk.css",
-    "main.js": "/investa/static/js/main.5f8ea75a.chunk.js",
-    "main.js.map": "/investa/static/js/main.5f8ea75a.chunk.js.map",
+    "main.js": "/investa/static/js/main.ccfe0a4c.chunk.js",
+    "main.js.map": "/investa/static/js/main.ccfe0a4c.chunk.js.map",
     "runtime-main.js": "/investa/static/js/runtime-main.12469878.js",
     "runtime-main.js.map": "/investa/static/js/runtime-main.12469878.js.map",
     "static/js/2.d9badf45.chunk.js": "/investa/static/js/2.d9badf45.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.12469878.js",
     "static/js/2.d9badf45.chunk.js",
     "static/css/main.4d467896.chunk.css",
-    "static/js/main.5f8ea75a.chunk.js"
+    "static/js/main.ccfe0a4c.chunk.js"
   ]
 }
