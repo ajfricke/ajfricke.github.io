@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/investa/static/css/main.4d467896.chunk.css",
+    "main.js": "/investa/static/js/main.c6e4ab0b.chunk.js",
+    "main.js.map": "/investa/static/js/main.c6e4ab0b.chunk.js.map",
+    "runtime-main.js": "/investa/static/js/runtime-main.12469878.js",
+    "runtime-main.js.map": "/investa/static/js/runtime-main.12469878.js.map",
+    "static/js/2.d9badf45.chunk.js": "/investa/static/js/2.d9badf45.chunk.js",
+    "static/js/2.d9badf45.chunk.js.map": "/investa/static/js/2.d9badf45.chunk.js.map",
+    "index.html": "/investa/index.html",
+    "static/css/main.4d467896.chunk.css.map": "/investa/static/css/main.4d467896.chunk.css.map",
+    "static/js/2.d9badf45.chunk.js.LICENSE.txt": "/investa/static/js/2.d9badf45.chunk.js.LICENSE.txt",
+    "static/media/svg-1.svg": "/investa/static/media/svg-1.943f5d7d.svg",
+    "static/media/svg-2.svg": "/investa/static/media/svg-2.600448c6.svg",
+    "static/media/svg-3.svg": "/investa/static/media/svg-3.b3473677.svg",
+    "static/media/svg-4.b073e976.svg": "/investa/static/media/svg-4.b073e976.svg",
+    "static/media/svg-5.3a31fc39.svg": "/investa/static/media/svg-5.3a31fc39.svg",
+    "static/media/svg-6.ae22f599.svg": "/investa/static/media/svg-6.ae22f599.svg",
+    "static/media/video.52e8933b.mp4": "/investa/static/media/video.52e8933b.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12469878.js",
+    "static/js/2.d9badf45.chunk.js",
+    "static/css/main.4d467896.chunk.css",
+    "static/js/main.c6e4ab0b.chunk.js"
+  ]
+}
